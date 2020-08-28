@@ -1,0 +1,5 @@
+O vídeio "Entendendo o Git" de Fábio Akita, descreve a terrível história de programadores e grandes coorporações que sofreram na criação de softwares das décadas de 80, 90 e até meados dos anos 2000.
+Onde utilizavam ferramentas nas quais eram chatos e complicados, muito fácil de conrroper arquivos, (pois uma ou mais pessoas tinham que acessar o mesmo arquivo, e muitas das vezes ao mesmo tempo)
+e não conseguia gerar versões do mesmo arquivo, a maioria das vezes, se programava no mesmo documento original, gerava muitos arquivos desnecessários e até mesmo apagar alguma coisa que não devia.
+Fábio Akita, explica com muitos dados técnicos sobre toda história (nas quais é difícil assimiliar de uma vez só, e por isso não estou listando elas aqui) mas o Git começou a ser implantado em meados dos anos de 2005 e se aperfeiçoando ao passar do tempo,
+solucionando todos estes tipos de problemas.
